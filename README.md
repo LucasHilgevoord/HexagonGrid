@@ -12,8 +12,8 @@ Then i made the switch to unity to learn a bit more about how it could be made w
 
 ## Learning goals 
 - How do meshes work within unity.
-- Forumulas translated in code.
-- etc. etc.
+- Pythagorean theorem
+- Using formulas in code.
 
 ## Schedule 
 - Monday: How do hexagons work.
