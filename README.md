@@ -23,7 +23,7 @@ Then i made the switch to unity to learn a bit more about how it could be made w
 - Friday: Creating hexagon grid in Unity.
 
 
-## Bronnen
+## Sources
 - [The hexagon itself](https://en.wikipedia.org/wiki/Hexagon)
 - [Creating hexagons](https://www.redblobgames.com/grids/hexagons/)
 - [Tutorial](https://catlikecoding.com/)
